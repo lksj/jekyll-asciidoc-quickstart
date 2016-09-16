@@ -23,7 +23,7 @@ For blog posts, Jekyll will recognize files under the `_post` directory, parse t
 
 To display a list of posts, use Jekyll syntax similar to the following:
 
-[source, html]
+[source, shell]
 --
 {% raw %}
 {% for post in site.posts limit: 5 %}
