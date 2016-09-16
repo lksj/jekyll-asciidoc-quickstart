@@ -5,7 +5,7 @@ title: "Jekyll-asciidoc-quickstart"
 asciidoctor:
   attributes:
     - idseparator=_
-    - source-highlighter=coderay
+    - source-highlighter=rouge
     - icons=font
 
 # end of configuration
